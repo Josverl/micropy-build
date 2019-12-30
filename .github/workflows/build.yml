@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - Josverl-test
     paths:
       - 'docker-entrypoint.py'
       - 'esp32/*'
